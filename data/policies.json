@@ -1,0 +1,40 @@
+{
+  "policies": [
+    {
+      "id": "POL001",
+      "name": "促进科技成果转化法",
+      "level": "国家法律",
+      "effective_date": "2015-08-29",
+      "key_provisions": [
+        "科研人员可获得不低于 50% 的转化收益",
+        "高校可自主决定成果转化方式",
+        "不纳入国有资产评估管理"
+      ],
+      "url": "http://www.npc.gov.cn"
+    },
+    {
+      "id": "POL002",
+      "name": "技术合同增值税减免政策",
+      "level": "国家税收",
+      "effective_date": "2016-05-01",
+      "key_provisions": [
+        "技术转让、许可免征增值税",
+        "技术开发免征增值税",
+        "需办理技术合同登记"
+      ],
+      "url": "http://www.chinatax.gov.cn"
+    },
+    {
+      "id": "POL003",
+      "name": "高新技术企业认定管理办法",
+      "level": "国家政策",
+      "effective_date": "2016-01-01",
+      "key_provisions": [
+        "企业所得税减按 15% 征收",
+        "研发费用加计扣除",
+        "优先支持申报科技项目"
+      ],
+      "url": "http://www.most.gov.cn"
+    }
+  ]
+}
